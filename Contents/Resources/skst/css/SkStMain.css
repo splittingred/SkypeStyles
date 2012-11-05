@@ -568,7 +568,7 @@ button.actions:hover
 	content: '';
 	left: 5px;
 	top: 6px;
-	background: url('../gfx/resources.png') no-repeat -24px -23px;
+/*	background: url('../gfx/resources.png') no-repeat -24px -23px; */
 	width: 9px;
 	height: 9px;
 	opacity: 0.6;
@@ -581,7 +581,7 @@ button.actions:hover
 	content: '';
 	left: 5px;
 	top: 6px;
-	background: url('../gfx/resources.png') no-repeat -23px -87px;
+/*	background: url('../gfx/resources.png') no-repeat -23px -87px; */
 	width: 9px;
 	height: 9px;
 	opacity: 0.6;

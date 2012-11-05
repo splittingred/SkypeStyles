@@ -5,17 +5,17 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleGetInfoString</key>
-	<string>SkypeStyles.com Chat Style</string>
+	<string>SkypeStyles Chat Style</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.skypestyles.skype.skypeStyles.style</string>
 	<key>CFBundleInfoDictionaryVersion</key>
-	<string>1.0</string>
+	<string>1.6.1</string>
 	<key>CFBundleName</key>
-	<string>SkypeStyles.com</string>
+	<string>SkypeStyles</string>
 	<key>CFBundlePackageType</key>
 	<string>SKP1</string>
 	<key>CFBundleVersion</key>
-	<string>1.0</string>
+	<string>1.6.1</string>
 	<key>DefaultFontFamily</key>
 	<string>Helvetica Neue Light</string>
 	<key>DefaultFontSize</key>
@@ -23,7 +23,7 @@
 	<key>DisableCustomBackground</key>
 	<true/>
 	<key>MessageViewVersion</key>
-	<integer>6</integer>
+	<integer>7</integer>
 	<key>ShowsUserIcons</key>
 	<true/>
 	<key>FormattedCopyCompatible</key>
