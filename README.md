@@ -6,12 +6,6 @@ http://www.skypestyles.com/
 
 # Installation
 
-_download_
-
-[SkypeStyles.SkypeChatStyle.zip](https://github.com/downloads/bawigga/SkypeStyles/SkypeStyles.SkypeChatStyle.zip)
-
-_from source_
-
 1. Clone the repo
 2. The destination folder needs to be called SkypeStyles.SkypeChatStyle
 3. Double click the folder to install
